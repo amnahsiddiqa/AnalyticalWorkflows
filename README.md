@@ -1,3 +1,10 @@
+
+# Jackson nf-core cs pipelines 
+- https://github.com/TheJacksonLaboratory/cs-nf-pipelines
+
+
+
+
 # For technical routine Issues 
 
 
