@@ -3,7 +3,8 @@
 - https://github.com/TheJacksonLaboratory/cs-nf-pipelines
 
 
-
+- https://github.com/TheJacksonLaboratory/cs-nf-pipelines/wiki/Pipeline-Documentation
+- 
 
 # For technical routine Issues 
 
