@@ -9,3 +9,6 @@
 #testing to ignore ipynb_checkpoints
 # it will work only for untracked files ; :/
 .ipynb_checkpoints
+TestData/metadata.csv
+TestData/preferred_Feature_table.tsv
+Notebooks/FT.tsv
