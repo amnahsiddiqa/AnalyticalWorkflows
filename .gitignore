@@ -12,3 +12,5 @@
 TestData/metadata.csv
 TestData/preferred_Feature_table.tsv
 Notebooks/FT.tsv
+*.DS_Store
+
