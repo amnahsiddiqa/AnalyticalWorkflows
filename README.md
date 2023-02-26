@@ -1,11 +1,11 @@
 ## NGS Workflows
 
-https://github.com/amnahsiddiqa/NGS_Pipelines
+* [RNASEQ] (https://github.com/amnahsiddiqa/NGS_Pipelines)
 
 
 
 ## Minimal Installation
-- nextflow: https://github.com/amnahsiddiqa/AnalyticalWorkflows/wiki/Nextflow-Minimal-Installations
+* [Nextflow](https://github.com/amnahsiddiqa/AnalyticalWorkflows/wiki/Nextflow-Minimal-Installations)
 
 # Jackson nf-core cs pipelines 
 - https://github.com/TheJacksonLaboratory/cs-nf-pipelines
