@@ -1,6 +1,6 @@
 ## NGS Workflows
 
-* [RNASEQ] (https://github.com/amnahsiddiqa/NGS_Pipelines)
+* [RNASEQ](https://github.com/amnahsiddiqa/NGS_Pipelines)
 
 
 
