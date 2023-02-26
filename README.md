@@ -4,6 +4,9 @@ https://github.com/amnahsiddiqa/NGS_Pipelines
 
 
 
+## Minimal Installations 
+- nextflow: https://github.com/amnahsiddiqa/AnalyticalWorkflows/wiki/Nextflow-Minimal-Installations
+
 # Jackson nf-core cs pipelines 
 - https://github.com/TheJacksonLaboratory/cs-nf-pipelines
 
