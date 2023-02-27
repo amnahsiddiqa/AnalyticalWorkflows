@@ -1,6 +1,6 @@
 ## Nextflow Pipelines ; Yet to be public 
 
-* [Custom nextflow pipelines] https://github.com/amnahsiddiqa/Nextflow_Pipelines_AS
+* [Custom nextflow pipelines](https://github.com/amnahsiddiqa/Nextflow_Pipelines_AS)
 
 ## NGS Workflows
 
