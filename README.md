@@ -11,13 +11,15 @@ https://github.com/amnahsiddiqa/Nextflow_Pipelines_AS
 ## Minimal Installation
 * [Nextflow](https://github.com/amnahsiddiqa/AnalyticalWorkflows/wiki/Nextflow-Minimal-Installations)
 
-# Jackson nf-core cs pipelines 
+## Resources 
+
+### Jackson nf-core cs pipelines 
 - https://github.com/TheJacksonLaboratory/cs-nf-pipelines
 
 
 - https://github.com/TheJacksonLaboratory/cs-nf-pipelines/wiki/Pipeline-Documentation
 
-# For technical routine Issues 
+### For technical routine Issues 
 
 
 
